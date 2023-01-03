@@ -16,6 +16,6 @@ As developer I have work experience with such stack technologies like:
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) and JUnit
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ElnurKasimov&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ryo-ma/github-profile-trophy)

@@ -7,7 +7,7 @@ As a developer, I have experience with the technology stack such as:
 
 ![Spring](https://github.com/ElnurKasimov/Logos/raw/main/Spring.png)![Thymeleaf](https://github.com/ElnurKasimov/Logos/raw/main/thymeleaf.png)![Hibernate](https://github.com/ElnurKasimov/Logos/raw/main/Hibernate.png)![Tomcat](https://github.com/ElnurKasimov/Logos/raw/main/Tomcat.png)![JDBC](https://github.com/ElnurKasimov/Logos/raw/main/JDBC.png) 
  
-- Databases: 
+- Databases:
 
 ![PostgreSQL](https://github.com/ElnurKasimov/Logos/raw/main/PostgreSQL.png) ![H2](https://github.com/ElnurKasimov/Logos/raw/main/h2.png) ![MySQL](https://github.com/ElnurKasimov/Logos/raw/main/MySQL.png)
 

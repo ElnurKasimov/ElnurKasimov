@@ -5,7 +5,7 @@ As a developer, I have experience with the technology stack such as:
 
 - Frameworks, Platforms and Libraries:
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) and Hibernates, Tomcat, JDBC
+![Spring](https://github.com/ElnurKasimov/Logos/raw/main/Spring.png) ![Thymeleaf](https://github.com/ElnurKasimov/Logos/raw/main/thymeleaf.png) ![Hibernate](https://github.com/ElnurKasimov/Logos/raw/main/Hibernate.png)
 
 - Databases: 
 

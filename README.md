@@ -5,8 +5,8 @@ As a developer, I have experience with the technology stack such as:
 
 - Frameworks, Platforms and Libraries:
 
-![Spring](https://github.com/ElnurKasimov/Logos/raw/main/Spring.png) ![Thymeleaf](https://github.com/ElnurKasimov/Logos/raw/main/thymeleaf.png) ![Hibernate](https://github.com/ElnurKasimov/Logos/raw/main/Hibernate.png)  ![JDBC](https://github.com/ElnurKasimov/Logos/raw/main/JDBC.png) 
-
+![Spring](https://github.com/ElnurKasimov/Logos/raw/main/Spring.png) ![Thymeleaf](https://github.com/ElnurKasimov/Logos/raw/main/thymeleaf.png) ![Hibernate](https://github.com/ElnurKasimov/Logos/raw/main/Hibernate.png)  ![Tomcat](https://github.com/ElnurKasimov/Logos/raw/main/Tomcat.png)  ![JDBC](https://github.com/ElnurKasimov/Logos/raw/main/JDBC.png) 
+ 
 - Databases: 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) and H2

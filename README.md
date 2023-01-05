@@ -9,7 +9,7 @@ As a developer, I have experience with the technology stack such as:
  
 - Databases: 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) and H2
+![PostgreSQL](https://github.com/ElnurKasimov/Logos/raw/main/PostgreSQL.png) ![H2](https://github.com/ElnurKasimov/Logos/raw/main/h2.png) ![MySQL](https://github.com/ElnurKasimov/Logos/raw/main/MySQL.png)
 
 - Supporting tools:
 

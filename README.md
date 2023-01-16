@@ -21,4 +21,6 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&hide=javascript,css,scss,html&layout=compact"/></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ElnurKasimov/github-profile-trophy)
+
+[![ElnurKasimov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ElnurKasimov)](https://github.com/ElnurKasimov/leetcode-stats)

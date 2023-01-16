@@ -14,6 +14,6 @@
 
 ![Gradle](https://github.com/ElnurKasimov/Logos/raw/main/Gradle.png) ![Docker](https://github.com/ElnurKasimov/Logos/raw/main/docker.png) ![Postman](https://github.com/ElnurKasimov/Logos/raw/main/Postman.png) ![JUnit](https://github.com/ElnurKasimov/Logos/raw/main/JUnit.png) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact)](https://github.com/ElnurKasimov/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ryo-ma/github-profile-trophy)

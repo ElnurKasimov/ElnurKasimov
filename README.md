@@ -14,6 +14,11 @@
 
 ![Gradle](https://github.com/ElnurKasimov/Logos/raw/main/Gradle.png) ![Docker](https://github.com/ElnurKasimov/Logos/raw/main/docker.png) ![Postman](https://github.com/ElnurKasimov/Logos/raw/main/Postman.png) ![JUnit](https://github.com/ElnurKasimov/Logos/raw/main/JUnit.png) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact)](https://github.com/ElnurKasimov/github-readme-stats)
+<p align='left'>
+   <a href="https://github-readme-stats.vercel.app/api?username=ElnurKasimov&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=ElnurKasimov&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/ElnurKasimov/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&hide=javascript,css,scss,html&layout=compact"/></a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ryo-ma/github-profile-trophy)

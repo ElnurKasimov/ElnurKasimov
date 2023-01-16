@@ -23,4 +23,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ElnurKasimov/github-profile-trophy)
 
-[![ElnurKasimov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ElnurKasimov)](https://github.com/ElnurKasimov/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ekasimov2012)](https://github.com/ElnurKasimov/leetcode-stats)

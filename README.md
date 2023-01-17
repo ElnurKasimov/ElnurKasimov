@@ -12,7 +12,7 @@
 ![PostgreSQL](https://github.com/ElnurKasimov/Logos/raw/main/PostgreSQL.png) ![H2](https://github.com/ElnurKasimov/Logos/raw/main/h2.png) ![MySQL](https://github.com/ElnurKasimov/Logos/raw/main/MySQL.png)
 <p><b> - Supporting tools:</b></p>
 
-![Gradle](https://github.com/ElnurKasimov/Logos/raw/main/Gradle.png) ![Docker](https://github.com/ElnurKasimov/Logos/raw/main/docker.png) ![Postman](https://github.com/ElnurKasimov/Logos/raw/main/Postman.png) ![JUnit](https://github.com/ElnurKasimov/Logos/raw/main/JUnit.png)  ![Mockito](https://github.com/ElnurKasimov/Logos/raw/main/Mockito.png) 
+![Gradle](https://github.com/ElnurKasimov/Logos/raw/main/Gradle.png) ![Docker](https://github.com/ElnurKasimov/Logos/raw/main/docker.png) ![Postman](https://github.com/ElnurKasimov/Logos/raw/main/Postman.png) ![JUnit](https://github.com/ElnurKasimov/Logos/raw/main/JUnit.png) ![Mockito](https://github.com/ElnurKasimov/Logos/raw/main/Mockito.png) 
 
 <p align='left'>
    <a href="https://github-readme-stats.vercel.app/api?username=ElnurKasimov&show_icons=true&count_private=true">

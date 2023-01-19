@@ -21,11 +21,11 @@
        <img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElnurKasimov&hide=javascript,css,scss,html&layout=compact"/></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ElnurKasimov/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ElnurKasimov/github-profile-trophy) -->
 
 <p align='left'>
    <a href="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012">
-       <img height=200 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>
+       <img height=200 width=382 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
-       <img height=200 width=410 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
+       <img height=180 width=460 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
 </p>

@@ -24,5 +24,5 @@
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
        <img height=180 width=460 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
    <a href="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012">
-       <img height=200 width=382 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>   
+       <img height=200 width=375 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>   
 </p>

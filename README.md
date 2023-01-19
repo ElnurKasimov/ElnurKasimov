@@ -26,6 +26,6 @@
 <p align='left'>
    <a href="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012">
        <img height=200 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>
-   <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23BB432C">
-       <img height=170 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23BB432C"/></a>
+   <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23BB432C&theme=light">
+       <img height=170 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23BB432C&theme=light"/></a>
 </p>

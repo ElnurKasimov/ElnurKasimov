@@ -16,16 +16,13 @@
 
 <p align='left'>
    <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElnurKasimov&show_icons=true&count_private=true">
-       <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElnurKasimov&show_icons=true&count_private=true"/></a>
+       <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ElnurKasimov&show_icons=true&count_private=true"/></a>
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact">
-       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact"/></a>
+       <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact"/></a>
 </p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ElnurKasimov)](https://github.com/ElnurKasimov/github-profile-trophy) -->
-
 <p align='left'>
-   <a href="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012">
-       <img height=200 width=382 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
        <img height=180 width=460 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
+   <a href="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012">
+       <img height=200 width=382 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>   
 </p>

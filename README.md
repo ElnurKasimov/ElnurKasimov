@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer from Dnipro, Ukraine</h3>
 <p>How to reach me: ekasimov2012@gmail.com</p>
-<p>My pages: <a href="https://www.linkedin.com/in/эльнур-касимов-724895103/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
+<p>My pages: <a href="https://www.linkedin.com/in/elnur-kasimov/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 <p>As a developer, I have experience with the technology stack such as:</p>
 <p><b> - Frameworks, Platforms and Libraries:</b></p>
 

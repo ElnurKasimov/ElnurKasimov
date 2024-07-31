@@ -20,15 +20,13 @@
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact">
        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact"/></a>
 </p>
-<!-- <p align='left'>
+<p align='left'>
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
-       <img height=180 width=435 style="vertical-align: middle;" src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
+       <img height=200 width=450 style="vertical-align: middle;" src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
+</p> 
+<p align='left'>   
    <a href="[![Leetcode Stats](https://leetcard.jacoblin.cool/ElnurKasimovDnipro)](https://leetcode.com/u/ElnurKasimovDnipro/)">
-       <img height=200 width=430 style="vertical-align: middle;" src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
-</p> -->
-<div style="display: flex; align-items: center;">
-   <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
-       <img height=180 width=435 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light" style="margin-right: 10px;"/></a>
-   <a href="https://leetcode.com/u/ElnurKasimovDnipro/">
-       <img height=200 width=400 src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
-</div>
+       <img height=200 width=450 style="vertical-align: middle;" src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
+</p>
+
+

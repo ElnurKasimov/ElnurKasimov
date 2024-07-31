@@ -23,6 +23,6 @@
 <p align='left'>
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
        <img height=180 width=435 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
-   <a href="[https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012](https://leetcode.com/u/Elnur_Kasimovekasimov2012/)">
+   <a href="https://leetcode.com/u/Elnur_Kasimovekasimov2012/">
 <!--        <img height=200 width=400 src="https://leetcode-stats-six.vercel.app/api?username=Elnur_Kasimovekasimov2012"/></a>    -->
 </p>

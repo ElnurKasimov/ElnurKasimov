@@ -21,12 +21,13 @@
        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact"/></a>
 </p>
 <p align='left'>
+ <a href="[![Leetcode Stats](https://leetcard.jacoblin.cool/ElnurKasimovDnipro)](https://leetcode.com/u/ElnurKasimovDnipro/)">
+       <img height=200 width=450 style="vertical-align: middle;" src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a>    
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
-       <img height=200 width=450 style="vertical-align: middle;" src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
-</p> 
-<p align='left'>   
-   <a href="[![Leetcode Stats](https://leetcard.jacoblin.cool/ElnurKasimovDnipro)](https://leetcode.com/u/ElnurKasimovDnipro/)">
-       <img height=200 width=450 style="vertical-align: middle;" src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
+       <img height=200 width=350 style="vertical-align: middle;" src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
+<!-- </p> 
+<p align='left'>    -->
+  
 </p>
 
 

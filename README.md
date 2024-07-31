@@ -24,5 +24,5 @@
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
        <img height=180 width=435 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>
    <a href="[![Leetcode Stats](https://leetcard.jacoblin.cool/ElnurKasimovDnipro)](https://leetcode.com/u/ElnurKasimovDnipro/)">
-       <img height=180 width=380 src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
+       <img height=190 width=350 src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
 </p>

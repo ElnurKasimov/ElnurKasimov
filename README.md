@@ -30,5 +30,5 @@
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
        <img height=180 width=435 src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light" style="margin-right: 10px;"/></a>
    <a href="https://leetcode.com/u/ElnurKasimovDnipro/">
-       <img height=200 width=430 src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
+       <img height=200 width=400 src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a> 
 </div>

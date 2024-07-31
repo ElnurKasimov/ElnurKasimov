@@ -26,3 +26,4 @@
    <a href="[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/ElnurKasimovDnipro/)">
 <!--        <img height=200 width=400 src="https://leetcode.com/JacobLinCool"/></a>  -->
 </p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)

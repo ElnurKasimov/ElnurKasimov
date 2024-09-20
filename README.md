@@ -6,12 +6,12 @@
 <p>As a developer, I have experience with the technology stack such as:</p>
 <p><b> - Frameworks, Platforms and Libraries:</b></p>
 
-![Spring](https://github.com/ElnurKasimov/Logos/raw/main/Spring.png)![Hibernate](https://github.com/ElnurKasimov/Logos/raw/main/Hibernate.png)![JUnit](https://github.com/ElnurKasimov/Logos/raw/main/JUnit.png) ![Mockito](https://github.com/ElnurKasimov/Logos/raw/main/Mockito.png) 
+![Spring](https://github.com/ElnurKasimov/Logos/raw/main/Spring.png) ![JUnit](https://github.com/ElnurKasimov/Logos/raw/main/JUnit.png) ![Mockito](https://github.com/ElnurKasimov/Logos/raw/main/Mockito.png) ![Hibernate](https://github.com/ElnurKasimov/Logos/raw/main/Hibernate.png)
 <!--  ![Thymeleaf](https://github.com/ElnurKasimov/Logos/raw/main/thymeleaf.png) -->
 <!--  ![Tomcat](https://github.com/ElnurKasimov/Logos/raw/main/Tomcat.png)![JDBC](https://github.com/ElnurKasimov/Logos/raw/main/JDBC.png) -->
 <p><b> - Database management systems:</b></p>
 
-![PostgreSQL](https://github.com/ElnurKasimov/Logos/raw/main/PostgreSQL.png) ![H2](https://github.com/ElnurKasimov/Logos/raw/main/h2.png) 
+![PostgreSQL](https://github.com/ElnurKasimov/Logos/raw/main/PostgreSQL.png)  ![H2](https://github.com/ElnurKasimov/Logos/raw/main/h2.png) 
 <!--  ![MySQL](https://github.com/ElnurKasimov/Logos/raw/main/MySQL.png) -->
 <p><b> - Supporting tools:</b></p>
 

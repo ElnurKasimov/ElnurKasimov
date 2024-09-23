@@ -24,10 +24,13 @@
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact">
        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElnurKasimov&layout=compact"/></a>
 </p>
-<p align='left' style="vertical-align: middle;">
+<p align='left'>
  <a href="[![Leetcode Stats](https://leetcard.jacoblin.cool/ElnurKasimovDnipro)](https://leetcode.com/u/ElnurKasimovDnipro/)">
        <img height=200 width=430 src="https://leetcard.jacoblin.cool/ElnurKasimovDnipro"/></a>  
-<!--   </p>
+</p>
+<!--   <a href="[![CodeWars Badge](https://codewars.com/users/Elnur_Dnep/badges/large)] (https://codewars.com/users/Elnur_Dnep/badges/large)">
+    <img height=200 width=430 src="https://codewars.com/users/Elnur_Dnep/badges/large)"/></a>  
+
 <p align='left' style="vertical-align: middle;">
    <a href="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light">
        <img height=200 width=500  src="https://github.r2v.ch/codewars?user=Elnur_Dnepr&stroke=%23E5E4E2&theme=light"/></a>  
